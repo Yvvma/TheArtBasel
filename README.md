@@ -1,3 +1,3 @@
 # TheArtBasel
 
-Project made to analisis the changes in art through time.
+Project made to analysis the changes in art through time.
